@@ -83,19 +83,3 @@ bash run.sh
 ## Acknowledgement
 This repo is developed based on cvpods. Please check [cvpods](https://github.com/Megvii-BaseDetection/cvpods) for more details and features.
 
-## License
-This repo is released under the Apache 2.0 license. Please see the LICENSE file for more information.
-
-## Citing
-If you use this work in your research or wish to refer to the results published here, please use the following BibTeX entries:
-```
-@article{fan2021generalized,
-  title     =  {Generalized Few-Shot Object Detection without Forgetting},
-  author    =  {Fan, Zhibo and Ma, Yuchen and Li, Zeming and Sun, Jian},
-  booktitle =  {IEEE Conference on Computer Vision and Pattern Recognition},
-  year      =  {2021}
-}
-```
-
-## Contributing to the project
-Any pull requests or issues about the implementation are welcome. If you have any issue about the library (e.g. installation, environments), please refer to [cvpods](https://github.com/Megvii-BaseDetection/cvpods).
